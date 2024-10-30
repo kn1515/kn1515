@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning OS, Security, TypeScript, React.js ...
+
 <!--
 **kn1515/kn1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
