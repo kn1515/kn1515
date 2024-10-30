@@ -15,6 +15,8 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,vim,linux,aws,gcp,nginx,ansible,terraform" /> <br /><br />
 
+<img src="https://skillicons.dev/icons?i=ubuntu,redis,markdown" /> <br /><br />
+
 <!--
 **kn1515/kn1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
