@@ -5,15 +5,15 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,go,php,bash," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,flask,fastapi,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,flask,fastapi,laravel,tailwind,mui" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,gcp,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,gcp,nginx," /> <br /><br />
 
 <!--
 **kn1515/kn1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
