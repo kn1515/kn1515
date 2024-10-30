@@ -3,8 +3,6 @@
 - 👋 Hi, I’m pon@kn1515
 - 🌱 I’m currently learning OS, Security, TypeScript, React.js ...
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kn1515)
-
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,java,go,php,bash," /> <br /><br />
@@ -18,6 +16,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,vim,linux,aws,gcp,nginx,ansible,terraform" /> <br /><br />
 
 <img src="https://skillicons.dev/icons?i=ubuntu,redis,markdown" /> <br /><br />
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kn1515)
 
 <!--
 **kn1515/kn1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
